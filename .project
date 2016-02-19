@@ -20,11 +20,4 @@
 		<nature>org.eclipse.jdt.core.javanature</nature>
 		<nature>org.eclipse.m2e.core.maven2Nature</nature>
 	</natures>
-	<linkedResources>
-		<link>
-			<name>src/main/resources/REST-Project-1-soapui-project.xml</name>
-			<type>1</type>
-			<locationURI>PARENT-2-PROJECT_LOC/Desktop/REST-Project-1-soapui-project.xml</locationURI>
-		</link>
-	</linkedResources>
 </projectDescription>
