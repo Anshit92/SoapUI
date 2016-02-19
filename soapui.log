@@ -1,20 +1,20 @@
-2016-02-19 09:25:18,775 WARN  [SoapUI] Missing folder [C:\Users\azureadmin\workspace\SoapUI\.\ext] for external libraries
-2016-02-19 09:25:19,349 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\azureadmin\soapui-settings.xml]
-2016-02-19 09:25:21,096 INFO  [WsdlProject] Loaded project from [file:/C:/Users/azureadmin/workspace/SoapUI/src/main/resources/REST-Project-1-soapui-project.xml]
-2016-02-19 09:25:21,096 WARN  [WsdlProject] Project 'REST Project 1' is from a newer version (5.2.1) of SoapUI than this (4.6.1) and parts of it may be incompatible or incorrect. Saving this project with this version of SoapUI may cause it to function differently.
-2016-02-19 09:25:22,220 INFO  [SoapUITestCaseRunner] Setting project property [message] to [Hello Coders!]
-2016-02-19 09:25:22,249 INFO  [SoapUITestCaseRunner] Running SoapUI tests in project [REST Project 1]
-2016-02-19 09:25:22,250 INFO  [SoapUITestCaseRunner] Running Project [REST Project 1], runType = SEQUENTIAL
-2016-02-19 09:25:22,289 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [http://13.76.131.131:8083 TestSuite]
-2016-02-19 09:25:22,303 INFO  [SoapUITestCaseRunner] running step [Display]
-2016-02-19 09:25:23,124 INFO  [SoapUITestCaseRunner] Assertion [Contains] has status VALID
-2016-02-19 09:25:23,124 INFO  [SoapUITestCaseRunner] Assertion [Valid HTTP Status Codes] has status VALID
-2016-02-19 09:25:23,124 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [http://13.76.131.131:8083 TestSuite], time taken: 290ms, status: FINISHED
-2016-02-19 09:25:23,125 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [http://13.76.131.131:8083 TestSuite]
-2016-02-19 09:25:23,126 INFO  [SoapUITestCaseRunner] running step [Display]
-2016-02-19 09:25:23,261 INFO  [SoapUITestCaseRunner] Assertion [Contains] has status FAILED
-2016-02-19 09:25:23,262 ERROR [SoapUITestCaseRunner] ASSERTION FAILED -> Missing token [blank] in Response
-2016-02-19 09:25:23,262 INFO  [SoapUITestCaseRunner] Assertion [Valid HTTP Status Codes] has status VALID
-2016-02-19 09:25:23,262 ERROR [SoapUITestCaseRunner] Display failed, exporting to [C:\Users\azureadmin\workspace\SoapUI\target/surefire-reports\testItDown-http13761311318083_TestSuite-Display-0-FAILED.txt]
-2016-02-19 09:25:23,262 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [http://13.76.131.131:8083 TestSuite], time taken: 83ms, status: FAILED
-2016-02-19 09:25:23,262 INFO  [SoapUITestCaseRunner] Project [REST Project 1] finished with status [FAILED] in 1002ms
+2016-02-19 14:29:46,218 WARN  [SoapUI] Missing folder [C:\Users\azureadmin\workspace\SoapUI\.\ext] for external libraries
+2016-02-19 14:29:46,774 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\azureadmin\soapui-settings.xml]
+2016-02-19 14:29:48,484 INFO  [WsdlProject] Loaded project from [file:/C:/Users/azureadmin/workspace/SoapUI/src/main/resources/REST-Project-1-soapui-project.xml]
+2016-02-19 14:29:48,484 WARN  [WsdlProject] Project 'REST Project 1' is from a newer version (5.2.1) of SoapUI than this (4.6.1) and parts of it may be incompatible or incorrect. Saving this project with this version of SoapUI may cause it to function differently.
+2016-02-19 14:29:49,722 INFO  [SoapUITestCaseRunner] Setting project property [message] to [Hello Coders!]
+2016-02-19 14:29:49,752 INFO  [SoapUITestCaseRunner] Running SoapUI tests in project [REST Project 1]
+2016-02-19 14:29:49,753 INFO  [SoapUITestCaseRunner] Running Project [REST Project 1], runType = SEQUENTIAL
+2016-02-19 14:29:49,787 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [http://13.76.131.131:8083 TestSuite]
+2016-02-19 14:29:49,815 INFO  [SoapUITestCaseRunner] running step [Display]
+2016-02-19 14:29:50,614 INFO  [SoapUITestCaseRunner] Assertion [Contains] has status VALID
+2016-02-19 14:29:50,615 INFO  [SoapUITestCaseRunner] Assertion [Valid HTTP Status Codes] has status VALID
+2016-02-19 14:29:50,615 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [http://13.76.131.131:8083 TestSuite], time taken: 304ms, status: FINISHED
+2016-02-19 14:29:50,623 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [http://13.76.131.131:8083 TestSuite]
+2016-02-19 14:29:50,623 INFO  [SoapUITestCaseRunner] running step [Display]
+2016-02-19 14:29:50,716 INFO  [SoapUITestCaseRunner] Assertion [Contains] has status FAILED
+2016-02-19 14:29:50,716 ERROR [SoapUITestCaseRunner] ASSERTION FAILED -> Missing token [blank] in Response
+2016-02-19 14:29:50,716 INFO  [SoapUITestCaseRunner] Assertion [Valid HTTP Status Codes] has status VALID
+2016-02-19 14:29:50,723 ERROR [SoapUITestCaseRunner] Display failed, exporting to [C:\Users\azureadmin\workspace\SoapUI\target/surefire-reports\testItDown-http13761311318083_TestSuite-Display-0-FAILED.txt]
+2016-02-19 14:29:50,724 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [http://13.76.131.131:8083 TestSuite], time taken: 76ms, status: FAILED
+2016-02-19 14:29:50,724 INFO  [SoapUITestCaseRunner] Project [REST Project 1] finished with status [FAILED] in 961ms
